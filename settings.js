@@ -52,7 +52,8 @@ global.ownertag = '+94702687231' //your tag number
 global.botname = 'BAD  ᴮⓞⓨ' //ur bot name
 global.packname = "̶̶͓͓̽̽̽͜͡❁͜͡😈͜͡❁͜͡B͜͡A͜͡D͜͡ B͜͡O͜͡Y͜͡" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🎀' // Menu emoji
+global.dragonemoji = '🔖'
+' // Menu emoji
 global.footer = '[ ◉ BAD  ᴮⓞⓨ' //
 
 //database
